@@ -15,17 +15,17 @@
     }
   },
   "beta": {
-    "version": "5.10.0",
-    "notes": "Looply v5.10.0",
-    "pub_date": "2026-11-13T13:03:57Z",
+    "version": "5.10.1-beta.1",
+    "notes": "Looply v5.10.1-beta.1",
+    "pub_date": "2026-11-13T13:51:45Z",
     "platforms": {
       "darwin-aarch64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaWhRUzNIMk1NZHB4U3hzV1NGcG1YbVpsSmsxczhnUmMzNUJSUVFBV3hhZ1Rlajk4Z2d3eWt1RVdzdTZXbDdFM1ZWQk5Fc1hKYTNocFdQdm1TL01QMmUxMDQ5cG1tQVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTczOTgzCWZpbGU6TG9vcGx5LmFwcC50YXIuZ3oKT0J2cHQ4QzQ0VnBuNG5Ha0pGMWlGYkV3Qkw0bTFmQnNTVTkrSnc3Ni9mVkwwMWY3VldpWmVycFFyV1ZzTURaMlBHSVo1UXlSdkV6OG41VHBKUVRvQlE9PQo=",
-        "url": "https://github.com/l-piacentini/looply-releases/releases/download/v5.10.0/Looply.app.tar.gz"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaWhRUzNIMk1NZHBHVkx3UHJGT3AzZTJwS1hSSGducHRVbFRBYjJ0UjRZNVlKNm5EdHBHenNNcUZwL0Ezb0orR21YVjNBc0FhQWxYY0xSajJ4Vm1oc2h0d2dWclBmenc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTc3MTIyCWZpbGU6TG9vcGx5LmFwcC50YXIuZ3oKRTdmY3dBa2hreXBTUFdHQUIwV3NRYTZVc1AzeWIxaGpLWjRoOC92aENULytSdmdQMFF5QjFKeUUxdFhaODhUMnZYZVg0TVJEaEhURjljbkhtdEtnRFE9PQo=",
+        "url": "https://github.com/l-piacentini/looply-releases/releases/download/v5.10.1-beta.1/Looply.app.tar.gz"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaWhRUzNIMk1NZGdLcjNFM3dsemVyUlZoaVIwNmRKTmUzbWdjQTB3ejRueG5CVEpETDRFS09DR3dTbUxneElTaHdJODFlZFNZekZueGpTMjR1SExMdW9HbVJHNDNzZWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTc0OTA5CWZpbGU6TG9vcGx5XzUuMTAuMF94NjQtc2V0dXAuZXhlCkRNUnBtc1R4UTdtWVFQQzdENFZUNVpROTFUdzNZOHhoQjFKa0JVK3l4Q2NZbVZESzF2MnA5VGlud21CTEdCTTN4R3RUNEFwOC9JSjE1UmxDUlY3SkR3PT0K",
-        "url": "https://github.com/l-piacentini/looply-releases/releases/download/v5.10.0/Looply_5.10.0_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaWhRUzNIMk1NZHEwUTVRQ2o1dEl5b2lVS0lUTUYxNktYZnZLb2tHdGJpZ25iSERnMW9qV0MvMXdPMkRKbWxYOXgwL25kSlZPOEpKa2M5WndBTklaMTRsbXQ3UXhlU1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTc3NzU0CWZpbGU6TG9vcGx5XzUuMTAuMS1iZXRhLjFfeDY0LXNldHVwLmV4ZQo0M1djVFNVQ3FmQ0c0UDFTa2I3TDZHWklmUlJXSWNYSUpFSkdEN2tkdFFWVGNXcktQbk5rSWg1a2JhV3pzOEl3bC94SE5HQVBNSk9WV1g0ZXZKd1NDQT09Cg==",
+        "url": "https://github.com/l-piacentini/looply-releases/releases/download/v5.10.1-beta.1/Looply_5.10.1-beta.1_x64-setup.exe"
       }
     }
   },
